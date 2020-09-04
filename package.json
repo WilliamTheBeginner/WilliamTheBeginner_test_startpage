@@ -22,7 +22,7 @@
     "gulp-sourcemaps": "^2.4.1",
     "gulp-uglify": "^2.0.1",
     "popper.js": "^1.14.3",
-    "node-sass": "^4.7.2"
+    "node-sass": "^4.13.1"
   },
   "dependencies": {
     "jquery": "^3.3.1"
